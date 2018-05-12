@@ -1,0 +1,45 @@
+_repo: Early-Western-Travels-1748-1846-Volume-21_45238
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45238-h/images/coverpage.jpg
+creator:
+  authors:
+  - agent_name: Townsend, John Kirk
+    alias: Townsend, J. K. (John Kirk)
+    birthdate: 1809
+    deathdate: 1851
+    gutenberg_agent_id: '43875'
+    url: http://www.gutenberg.org/2009/agents/43875
+  - agent_name: Wyeth, John B. (John Bound)
+    birthdate: 1815
+    gutenberg_agent_id: '44689'
+    url: http://www.gutenberg.org/2009/agents/44689
+  editor:
+    agent_name: Thwaites, Reuben Gold
+    alias: Thwaites, R. G. (Reuben Gold)
+    birthdate: 1853
+    deathdate: 1913
+    gutenberg_agent_id: '33780'
+    url: http://www.gutenberg.org/2009/agents/33780
+description: ''
+gutenberg_issued: '2014-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Early western travels, 1748-1846, v. 21
+subjects:
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Oregon -- Description and travel'
+- !lcsh 'Townsend, John Kirk, 1809-1851 -- Travel'
+- !lcc 'F590.3'
+- !lcsh 'Natural history -- Northwest, Pacific'
+- !lcsh 'Animals -- Oregon'
+- !lcsh 'Overland journeys to the Pacific'
+title: Wyeth's Oregon, or a Short History of a Long Journey, 1832; and Townsend's
+  Narrative of a Journey across the Rocky Mountains, 1834
+url: http://www.gutenberg.org/ebooks/45238
